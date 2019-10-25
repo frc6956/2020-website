@@ -1,37 +1,46 @@
-.social-icon:hover {
-    background-color: #339c5e;
-}
-
-.social-icon {
-    height: 2em;
-    width: 2em;
-}
-
-.rainbow-icon {
-    height:2em;
-    width: 2em;
-}
-
-.rainbow-icon:hover {
-    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
-}
-
-.card {
-    padding: 15px;
- }
-
- .header {
-    background-color: white;
-    padding: 15px 15px 5px 15px;
-}
 .Welcome {
     text-align: center;
 }
 
-.img {
+.sponsor-img {
     width: 100%;
 }
 
-.szimg {
-    width: 50%;
+.resources a{
+    list-style-type: none;
+    text-decoration: none;
+    color: #339c5e;
+}
+
+.resources a:visited {color: #339c5e;}
+.resources a:link {color: #339c5e;}
+.resources a:hover {color: #2a844f;}
+
+h4 {
+    text-align: left;
+}
+aside {
+    width: 250px;
+    float: right;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+aside a {
+    text-decoration: none;
+    color: green;
+    padding-left: 20px;
+}
+
+aside a:hover {
+    text-decoration: none;
+    color: yellow;
+}
+
+aside ul{
+    list-style-type: none;
+}
+
+.blogs-p {
+    color: lightgrey;
 }
