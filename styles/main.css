@@ -36,7 +36,6 @@ nav li {
     content: '';
     display: block;
     height: 5px;
-    width: 100%;
     background-color: #FFE000;
   
     position: absolute;
