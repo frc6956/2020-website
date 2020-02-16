@@ -1,9 +1,11 @@
+* {box-sizing: border-box;}
 .Welcome {
     text-align: center;
 }
 
 .sponsor-img {
-    width: 100%;
+    width: 40%;
+    vertical-align: middle;
 }
 
 .resources a{
@@ -20,7 +22,8 @@ h4 {
     text-align: left;
 }
 aside {
-    width: 250px;
+    border: 1px solid green;
+    width: 300px;
     float: right;
     padding: 20px;
     margin-bottom: 20px;
